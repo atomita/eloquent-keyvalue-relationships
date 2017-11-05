@@ -1,0 +1,10 @@
+{
+    "name": "atomita/eloquent-keyvalue-relationships",
+    "license": "MIT",
+    "require": {
+        "illuminate/database": "~5.0"
+    },
+    "autoload": {
+        "classmap":["src/"]
+    }
+}
